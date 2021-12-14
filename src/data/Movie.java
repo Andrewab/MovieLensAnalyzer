@@ -103,7 +103,8 @@ public class Movie {
 	public void setTitle(String title){
 		this.title = title;
 	}
-	
+
+
 	/**
 	 * Returns the year of the movie
 	 * @return The year the movie was released
